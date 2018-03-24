@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="imageSize">150dp</dimen>
+    <dimen name="name_font_size">25sp</dimen>
+    <dimen name="layout_padding">15dp</dimen>
+    <dimen name="contact_font_size">20sp</dimen>
+</resources>
